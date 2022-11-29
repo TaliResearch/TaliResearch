@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaliResearch
 - 👀 I’m an AI researcher and engineer 
-- 🌱 I’m currently working on projects in ai, machine learning, quant research, women in stem, and investments.
+- 🌱 I’m currently working on projects in ai, machine learning, quant research and systematic investments.
 - 💞️ I’m looking to collaborate on AI projects for investing and/ or AI projects that support women in stem
 - 📫 How to reach me - Twitter:  @TaliResearch
 
