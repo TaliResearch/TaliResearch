@@ -1,0 +1,46 @@
+VERY SIMPLE AND EASY TO UNDERSTAND FLOW OF SYSTEMATIC STRATEGY DEVELOPMENT WORKFLOW:
+
+Strategy Research Workflow - IN THE MOST EASY TO UNDERSTAND AND SIMPLIFIED TERMS:
+A demonstration of strategy development workflow.
+
+Overview
+1. Look for an idea 
+  - exploratory data science process
+OR
+    - academia / intuition
+
+2. Replicate or hypothesise a set of results
+
+3. Plausability check 
+    - Holding period / signal decay
+    - costs / slippage
+    - feasability at capital level
+    - capacity
+    - accept or go to 1.
+
+4. Design an algorithm & Backtest
+    - Repeat step 3
+
+5. Make it your own
+    - Apply your bread & butter - put some specialised spin on it based on your skill set or optimisations
+    - Repeat step 3
+
+6. Paper trade
+    - length of paper trading depends on turnover
+    - Repeat step 3
+
+7. Live trade with low stakes
+    - Repeat step 3
+        - Compare live results with backtested estimations
+        - slippage / transactions
+        - Non-fills; are they an issue
+
+8. Add to the portfolio and allocate capital
+
+9. Go to 1.
+
+Trading multiple strategies is how algorithmic traders diversify and scale their operation. 
+
+Algorithmic execution is key to time management as it allows traders to focus on research on generating new strategies. 
+
+And so the workflow cycle can continue.
